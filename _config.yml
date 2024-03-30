@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Proxecto Integrador I
+longtitle:        Proxecto Integrador I
+author:           Ismael Rodríguez
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  Proxecto Integrador I
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://ismael-sensei.github.io'
+baseurl:          '/Proxecto-Integrador-I'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
